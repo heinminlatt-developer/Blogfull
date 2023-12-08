@@ -1,0 +1,51 @@
+/* Topbar */
+
+.container{
+    display: flex;
+    justify-content:end;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+/* Footer */
+
+
+
+
+
+
+/* BodyUp*/
+.figure{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    flex-direction: column;
+}
+
+
+/* BodyImage */
+.container{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.Col{
+    flex:4;
+
+}
+.Col{
+    flex:6;
+}
+
+/* Form */
+.formContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content:center ;
+    align-items: center;
+}
+
+
+
+
